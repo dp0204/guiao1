@@ -1,3 +1,6 @@
 Com esta aplicação nós temos o objetivo de criar um sistema de venda de bilhetes on-line que consiga gerir o inventário de bilhetes, os dados dos clientes e a informação sobre pagamentos.
 Nesta aplicação vão existir dois utilizadores: o cliente e o vendedor. O cliente será capaz de ver e comprar os bilhetes existentes na loja e o vendedor vai poder acompanhar as vendas e gerir a disponibilidade de bilhetes.
  
+Ator: Cliente
+Código            Nome                                                   Descrição                                                   Prioridade
+CLI01    Aceder à lista de produtos    Como Cliente quero aceder à lista dos produtos para saber que produtos existem na loja          Alta
