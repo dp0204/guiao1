@@ -7,4 +7,4 @@ CLI01    Aceder à lista de produtos    Como Cliente quero aceder a lista dos pr
 
 Ator: Vendedor
 Código            Nome                                                   Descrição                                                   Prioridade
-VND01       Aceder às vendas         Como Vendedor quero aceder as vendas para saber o lucro e os bilhetes disponiveis na loja          Alta
+VND01       Aceder às vendas         Como Vendedor quero aceder as vendas para saber o lucro e os bilhetes disponiveis na loja         Alta
