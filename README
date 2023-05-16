@@ -3,4 +3,8 @@ Nesta aplicação vão existir dois utilizadores: o cliente e o vendedor. O clie
  
 Ator: Cliente
 Código            Nome                                                   Descrição                                                   Prioridade
-CLI01    Aceder à lista de produtos    Como Cliente quero aceder à lista dos produtos para saber que produtos existem na loja          Alta
+CLI01    Aceder à lista de produtos    Como Cliente quero aceder a lista dos produtos para saber que bilhetes existem na loja          Alta
+
+Ator: Vendedor
+Código            Nome                                                   Descrição                                                   Prioridade
+VND01       Aceder às vendas         Como Vendedor quero aceder as vendas para saber o lucro e os bilhetes disponiveis na loja          Alta
