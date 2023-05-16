@@ -1,3 +1,7 @@
+Projeto: P18-Venda de bilhetes
+Grupo: Diogo Pedro 1220825, Tiago Guedes 1220728, Tiago Oliveira 1211977
+
+
 Com esta aplicação nós temos o objetivo de criar um sistema de venda de bilhetes on-line que consiga gerir o inventário de bilhetes, os dados dos clientes e a informação sobre pagamentos.
 Nesta aplicação vão existir três utilizadores: o visitante, o cliente e o vendedor. O  visitante vai conseguir autenticar-se, o cliente será capaz de ver e comprar os bilhetes existentes na loja 
 e o vendedor vai poder acompanhar as vendas e gerir a disponibilidade de bilhetes.
