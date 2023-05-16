@@ -15,4 +15,4 @@ CLI02    Aceder à lista de produtos    Como Cliente quero aceder à lista dos p
 
 Ator: Vendedor
 Código            Nome                                                   Descrição                                                   Prioridade
-VND03       Aceder às vendas           Como Vendedor quero aceder às vendas para atualizar os bilhetes disponíveis na loja             Alta
+VND03       Aceder às vendas           Como Vendedor quero aceder às vendas para atualizar os bilhetes disponíveis na loja              Alta
